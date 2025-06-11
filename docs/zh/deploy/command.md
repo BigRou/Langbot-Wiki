@@ -22,6 +22,11 @@
 !resend                       回滚前一次请求
 !plugin                       用法请查看插件介绍页的`管理`章节
 ```
+## 使用方法
+
+例如：！reset命令
+
+![image](https://github.com/user-attachments/assets/2b4ce0d5-8b19-4a1f-9825-5d0254b6e7da)
 
 ## 命令权限控制
 
